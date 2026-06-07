@@ -4,7 +4,6 @@ import myImg from "../../Assets/cropped_image.png";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
@@ -19,7 +18,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              Backend Developer & DevOps Engineer.    
+              Backend Developer & DevOps Engineer.
 
               <br />
               <br />I build production-grade systems with Python, Go, and a full DevOps toolkit.
