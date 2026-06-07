@@ -8,14 +8,10 @@ import {
   DiMongodb,
   DiPython,
   DiGit,
-  DiJava,
   DiDocker
 } from "react-icons/di";
 import {
   SiRedis,
-  SiFirebase,
-  SiNextdotjs,
-  SiSolidity,
   SiPostgresql,
 } from "react-icons/si";
 import { TbBrandGolang } from "react-icons/tb";
@@ -53,7 +49,7 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <DiPython />
       </Col>
-      
+
     </Row>
   );
 }

@@ -1,6 +1,5 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import { ImPointRight } from "react-icons/im";
 
 function AboutCard() {
   return (
@@ -21,7 +20,7 @@ function AboutCard() {
                <br />
                 Outside of work, I write articles about Python, design patterns, and Linux because the best way to solidify what you know is to explain it clearly.
           </p>
-         
+
           <p style={{ color: "rgb(155 126 172)" }}>
             "Talk is cheap. Show me the code."{" "}
           </p>
